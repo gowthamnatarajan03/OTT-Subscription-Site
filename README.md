@@ -3,6 +3,10 @@
 ## Description
 FourH is an OTT (Over-The-Top) subscription site that offers a wide range of entertainment content including movies, TV shows, originals, news, and sports. Users can choose from various subscription plans, purchase or rent movies and shows, and enjoy streaming content from the comfort of their devices.
 
+**[LIVE DEMO](https://fourhott.netlify.app/)**
+
+![fourhott-homepage](https://github.com/gowthamnatarajan03/OTT-Subscription-Site/assets/165258291/2e439d6c-bfb6-4924-8c5a-93d6d7e3c0f4)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
